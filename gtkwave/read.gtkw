@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Tue May 10 04:25:36 2016
+[*]
+[dumpfile] "/home/krail/Downloads/wave3.ghw"
+[dumpfile_mtime] "Tue May 10 04:23:30 2016"
+[dumpfile_size] 5621736
+[savefile] "/home/krail/Undergrad/CPEG324/wave-single-cycle.gtkw"
+[timestart] 173700000
+[size] 1280 927
+[pos] -1 -1
+*-24.600370 225000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.calculator_tb.
+[treeopen] top.calculator_tb.calculator_0.
+[sst_width] 217
+[signals_width] 214
+[sst_expanded] 1
+[sst_vpaned_height] 546
+@200
+-Test Bench
+@24
+#{top.calculator_tb.s_pc[7:0]} top.calculator_tb.s_pc[7] top.calculator_tb.s_pc[6] top.calculator_tb.s_pc[5] top.calculator_tb.s_pc[4] top.calculator_tb.s_pc[3] top.calculator_tb.s_pc[2] top.calculator_tb.s_pc[1] top.calculator_tb.s_pc[0]
+@28
+#{top.calculator_tb.s_instruction[7:0]} top.calculator_tb.s_instruction[7] top.calculator_tb.s_instruction[6] top.calculator_tb.s_instruction[5] top.calculator_tb.s_instruction[4] top.calculator_tb.s_instruction[3] top.calculator_tb.s_instruction[2] top.calculator_tb.s_instruction[1] top.calculator_tb.s_instruction[0]
+@24
+#{top.calculator_tb.s_num_instructions[7:0]} top.calculator_tb.s_num_instructions[7] top.calculator_tb.s_num_instructions[6] top.calculator_tb.s_num_instructions[5] top.calculator_tb.s_num_instructions[4] top.calculator_tb.s_num_instructions[3] top.calculator_tb.s_num_instructions[2] top.calculator_tb.s_num_instructions[1] top.calculator_tb.s_num_instructions[0]
+@200
+-
+-Calculator
+@28
+top.calculator_tb.calculator_0.clk
+top.calculator_tb.calculator_0.i_reset
+top.calculator_tb.calculator_0.i_enable
+top.calculator_tb.calculator_0.c_enable
+@22
+#{top.calculator_tb.calculator_0.s_num_instructions[7:0]} top.calculator_tb.calculator_0.s_num_instructions[7] top.calculator_tb.calculator_0.s_num_instructions[6] top.calculator_tb.calculator_0.s_num_instructions[5] top.calculator_tb.calculator_0.s_num_instructions[4] top.calculator_tb.calculator_0.s_num_instructions[3] top.calculator_tb.calculator_0.s_num_instructions[2] top.calculator_tb.calculator_0.s_num_instructions[1] top.calculator_tb.calculator_0.s_num_instructions[0]
+@29
+#{top.calculator_tb.calculator_0.s_curr_instruction[7:0]} top.calculator_tb.calculator_0.s_curr_instruction[7] top.calculator_tb.calculator_0.s_curr_instruction[6] top.calculator_tb.calculator_0.s_curr_instruction[5] top.calculator_tb.calculator_0.s_curr_instruction[4] top.calculator_tb.calculator_0.s_curr_instruction[3] top.calculator_tb.calculator_0.s_curr_instruction[2] top.calculator_tb.calculator_0.s_curr_instruction[1] top.calculator_tb.calculator_0.s_curr_instruction[0]
+@24
+#{top.calculator_tb.calculator_0.s_pc[7:0]} top.calculator_tb.calculator_0.s_pc[7] top.calculator_tb.calculator_0.s_pc[6] top.calculator_tb.calculator_0.s_pc[5] top.calculator_tb.calculator_0.s_pc[4] top.calculator_tb.calculator_0.s_pc[3] top.calculator_tb.calculator_0.s_pc[2] top.calculator_tb.calculator_0.s_pc[1] top.calculator_tb.calculator_0.s_pc[0]
+@28
+#{top.calculator_tb.calculator_0.s_control[2:0]} top.calculator_tb.calculator_0.s_control[2] top.calculator_tb.calculator_0.s_control[1] top.calculator_tb.calculator_0.s_control[0]
+@24
+#{top.calculator_tb.calculator_0.s_pc_next[7:0]} top.calculator_tb.calculator_0.s_pc_next[7] top.calculator_tb.calculator_0.s_pc_next[6] top.calculator_tb.calculator_0.s_pc_next[5] top.calculator_tb.calculator_0.s_pc_next[4] top.calculator_tb.calculator_0.s_pc_next[3] top.calculator_tb.calculator_0.s_pc_next[2] top.calculator_tb.calculator_0.s_pc_next[1] top.calculator_tb.calculator_0.s_pc_next[0]
+@28
+#{top.calculator_tb.calculator_0.s_max_pc[1:0]} top.calculator_tb.calculator_0.s_max_pc[1] top.calculator_tb.calculator_0.s_max_pc[0]
+#{top.calculator_tb.calculator_0.s_control[2:0]} top.calculator_tb.calculator_0.s_control[2] top.calculator_tb.calculator_0.s_control[1] top.calculator_tb.calculator_0.s_control[0]
+top.calculator_tb.calculator_0.c_branch
+top.calculator_tb.calculator_0.c_zero
+#{top.calculator_tb.calculator_0.o_print[7:0]} top.calculator_tb.calculator_0.o_print[7] top.calculator_tb.calculator_0.o_print[6] top.calculator_tb.calculator_0.o_print[5] top.calculator_tb.calculator_0.o_print[4] top.calculator_tb.calculator_0.o_print[3] top.calculator_tb.calculator_0.o_print[2] top.calculator_tb.calculator_0.o_print[1] top.calculator_tb.calculator_0.o_print[0]
+[pattern_trace] 1
+[pattern_trace] 0

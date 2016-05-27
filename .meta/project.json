@@ -1,0 +1,7 @@
+{
+  "id": "vhdl-pipelined-calc",
+  "keywords": ["VHDL", "GHDL", "GTKWave", "Processor Design"],
+  "progress": 90,
+  "software": true,
+  "hardware": true
+}
